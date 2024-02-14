@@ -1,8 +1,8 @@
 {
-  "Counter-Strike: 2": {
+  "[CS:2] Gamesense": {
     "id": 0,
     "status": 0,
-    "image": "cs2",
+    "image": "gs",
     "till": "21 Jan 2024",
     "available": true
   },
